@@ -20,4 +20,7 @@ In conclusion, in this thesis we have performed and determined the following res
 2. We determined and characterized 5 new sRNA, involved in drug resistance mechanism;
 3. We established a new in silico protocol to help in targeting RNA-RNA binding.
 
-For the first time, our analysis suggests the existence of more complex post-transcriptional regulatory networks around key drug resistant genes commonly considered to identify mutations marker of resistance to be included in molecular diagnostic assays. Our study shed lights on putative involvement of post-transcriptional regulation for genes relevant for drug resistance in M. tuberculosis, thus highlighting the importance to investigate sRNAs and their post-transcriptional regulatory role in antibiotic resistance.
+For the first time, our analysis suggests the existence of more complex post-transcriptional regulatory networks around key drug resistant genes commonly considered to identify mutations marker of resistance to be included in molecular diagnostic assays. Our study shed lights on putative involvement of post-transcriptional regulation for genes relevant for drug resistance in M. tuberculosis, thus highlighting the importance to investigate sRNAs and their post-transcriptional regulatory role in antibiotic resistance.  
+
+## Workflow
+![Workflow](https://github.com/biga94/sRNA/blob/main/workflow.png)
